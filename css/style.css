@@ -1,0 +1,25 @@
+.block{
+	width: 700px;
+	margin: 20px auto;
+	background: #2759CC;
+	color: #41F2A7 ;
+	text-align: justify;
+ 	padding: 15px;
+ 	border-radius: 0px 25px 0px 25px;
+}
+img{
+	width: 200px ;
+	float: left;
+	
+	margin-bottom: 15px;
+}
+h1{
+	text-align: center;
+}
+body{
+	background: url("https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/800px-One_Piece_Logo.svg.png");
+	background-repeat: repeat-y;
+	background-size: 300px;
+	background-position: right top;
+	background-attachment: fixed;
+}
